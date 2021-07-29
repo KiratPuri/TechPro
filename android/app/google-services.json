@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1049984480771",
+    "project_id": "techpro-7d9aa",
+    "storage_bucket": "techpro-7d9aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049984480771:android:b6cd30e856724554a78036",
+        "android_client_info": {
+          "package_name": "com.tech.techpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049984480771-l807cmjf7m457fnrd8jfu29hvknsg031.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tech.techpro",
+            "certificate_hash": "a98eac50874de0538a343b2530393bb7b4c78e13"
+          }
+        },
+        {
+          "client_id": "1049984480771-kbtlio7r4rh9v0pisd3hi3e62st6m3ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1cOK7tLhXhbkOJQXnmiJVSw5GIW5Pp2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049984480771-kbtlio7r4rh9v0pisd3hi3e62st6m3ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
